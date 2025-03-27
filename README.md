@@ -11,7 +11,7 @@ Este repositorio contiene un análisis detallado de distintos factores y su infl
   - El archivo `StudentPerformanceFactors.csv`, ubicado dentro de la carpeta `Data/`, contiene la información base para el análisis.
 
 - **Visualizaciones**:
-  - En la carpeta 'powerBI' se incluye una versión del informe interactivo en Power BI (.pbix), junto con una exportación en PDF de sus páginas 
+  - En la carpeta 'PowerBI' se incluye una versión del informe interactivo en Power BI (.pbix), junto con una exportación en PDF de sus páginas 
 
 ## Objetivos del Análisis
 
