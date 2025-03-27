@@ -10,6 +10,9 @@ Este repositorio contiene un análisis detallado de distintos factores y su infl
 - **Datos**:
  - El archivo `StudentPerformanceFactors.csv`, ubicado dentro de la carpeta `Data/`, contiene la información base para el análisis.
 
+- **Visualizaciones**:
+ - En la carpeta 'powerBI' se incluye una versión del informe interactivo en Power BI (.pbix), junto con una exportación en PDF de sus páginas 
+
 ## Objetivos del Análisis
 
 Examinar los hábitos y recursos disponibles para los estudiantes y analizar cómo estos factores se relacionan con sus resultados en los exámenes, identificando patrones y tendencias que puedan ofrecer una visión más profunda sobre los elementos que influyen en el rendimiento académico.
